@@ -1,6 +1,6 @@
 "use strict"
 
-const token = `4b35a3fd695d833c095b1d0949b3dcd1158bec44`
+const token = //authentication token
 
 
 
